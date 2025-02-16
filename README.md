@@ -50,7 +50,7 @@ With concurrent processing, CorsScan ensures fast and reliable results without c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YogSec/CorsScan.git
+   git clone https://github.com/YogSec/CorsScanner.git
    cd CorsScan
    ```
 
