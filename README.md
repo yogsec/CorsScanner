@@ -2,6 +2,8 @@
 
 CorsScan is a powerful and efficient Bash script designed to detect Cross-Origin Resource Sharing (CORS) vulnerabilities in web applications. CORS misconfigurations can lead to significant security risks, including unauthorized data access and exploitation. CorsScan helps you identify and address these vulnerabilities effectively.
 
+[CorsScanner](https://github.com/yogsec/CorsScanner/blob/main/corsscanner.png)
+
 ---
 
 ## Problem Statement
