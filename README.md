@@ -154,7 +154,7 @@ https://vulnerable.com allows credentials with Access-Control-Allow-Credentials:
 Hi! I am Abhinav Singwal, a security researcher passionate about helping the community secure their applications. Feel free to connect with me:
 
 - Email: [abhinavsingwal@gmail.com](mailto:abhinavsingwal@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)
+- LinkedIn: [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)
 
 ---
 
@@ -163,6 +163,4 @@ Hi! I am Abhinav Singwal, a security researcher passionate about helping the com
 If you find CorsScan useful, consider supporting my work by buying me a coffee:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange)](https://buymeacoffee.com/yogsec)
-
-Thank you for your support! Together, we can build a safer web.
 
