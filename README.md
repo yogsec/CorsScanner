@@ -1,6 +1,6 @@
-# CorsScan 🛡️
+# CorsScanner
 
-CorsScan is a powerful and efficient Bash script designed to detect Cross-Origin Resource Sharing (CORS) vulnerabilities in web applications. CORS misconfigurations can lead to significant security risks, including unauthorized data access and exploitation. CorsScan helps you identify and address these vulnerabilities effectively.
+CorsScanner is a powerful and efficient Bash script designed to detect Cross-Origin Resource Sharing (CORS) vulnerabilities in web applications. CORS misconfigurations can lead to significant security risks, including unauthorized data access and exploitation. CorsScanner helps you identify and address these vulnerabilities effectively.
 
 ![CorsScanner](https://github.com/yogsec/CorsScanner/blob/main/Screenshot%20from%202025-03-06%2018-36-57.png?raw=true)
 
@@ -20,7 +20,7 @@ Manually detecting these issues can be time-consuming and error-prone. Developer
 
 ## Solution
 
-CorsScan automates the detection of CORS vulnerabilities in a given list of URLs. It checks for:
+CorsScanner automates the detection of CORS vulnerabilities in a given list of URLs. It checks for:
 
 - Wildcard `*` in the `Access-Control-Allow-Origin` header.
 - Reflection of the origin in the `Access-Control-Allow-Origin` header.
@@ -28,7 +28,7 @@ CorsScan automates the detection of CORS vulnerabilities in a given list of URLs
 - Allowing all headers in `Access-Control-Allow-Headers`.
 - Misuse of credentials in `Access-Control-Allow-Credentials`.
 
-With concurrent processing, CorsScan ensures fast and reliable results without compromising quality.
+With concurrent processing, CorsScanner ensures fast and reliable results without compromising quality.
 
 ---
 
@@ -71,7 +71,7 @@ With concurrent processing, CorsScan ensures fast and reliable results without c
 Output:
 ```
 ##########################################
-#              CorsScan                #
+#              CorsScanner                #
 #      CORS Vulnerability Scanner      #
 ##########################################
 Usage: ./cors.sh [OPTIONS]
@@ -160,7 +160,7 @@ Hi! I am Abhinav Singwal, a security researcher passionate about helping the com
 
 ## Support
 
-If you find CorsScan useful, consider supporting my work by buying me a coffee:
+If you find CorsScanner useful, consider supporting my work by buying me a coffee:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange)](https://buymeacoffee.com/yogsec)
 
